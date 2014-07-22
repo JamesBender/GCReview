@@ -1,0 +1,8 @@
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\bin\Debug\GCReview.exe.config
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\bin\Debug\GCReview.exe
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\bin\Debug\GCReview.pdb
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\obj\Debug\GCReview.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\obj\Debug\GCReview.exe
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\obj\Debug\GCReview.pdb
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\bin\Debug\GCLibrary.dll
+c:\users\james\documents\visual studio 2013\Projects\GCReview\GCReview\bin\Debug\GCLibrary.pdb

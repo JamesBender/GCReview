@@ -1,0 +1,5 @@
+c:\Users\James\documents\visual studio 2013\Projects\GCReview\GCLibrary\bin\Debug\GCLibrary.dll
+c:\Users\James\documents\visual studio 2013\Projects\GCReview\GCLibrary\bin\Debug\GCLibrary.pdb
+c:\Users\James\documents\visual studio 2013\Projects\GCReview\GCLibrary\obj\Debug\GCLibrary.csprojResolveAssemblyReference.cache
+c:\Users\James\documents\visual studio 2013\Projects\GCReview\GCLibrary\obj\Debug\GCLibrary.dll
+c:\Users\James\documents\visual studio 2013\Projects\GCReview\GCLibrary\obj\Debug\GCLibrary.pdb

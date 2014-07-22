@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCReview", "GCReview\GCReview.csproj", "{25D5B307-2917-4863-9FC1-822B3B542170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCLibrary", "GCLibrary\GCLibrary.csproj", "{A7A74DFF-9BB8-4F7C-9B17-05B43E1E209D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D5B307-2917-4863-9FC1-822B3B542170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D5B307-2917-4863-9FC1-822B3B542170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D5B307-2917-4863-9FC1-822B3B542170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D5B307-2917-4863-9FC1-822B3B542170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A74DFF-9BB8-4F7C-9B17-05B43E1E209D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A74DFF-9BB8-4F7C-9B17-05B43E1E209D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A74DFF-9BB8-4F7C-9B17-05B43E1E209D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A74DFF-9BB8-4F7C-9B17-05B43E1E209D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
